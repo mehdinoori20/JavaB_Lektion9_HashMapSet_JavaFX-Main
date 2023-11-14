@@ -14,6 +14,7 @@ public class Main {
         // TODO - Put both ADDS and Edits already existing keys: values
         capitalCities.put("Sweden", "Stockholm");
         capitalCities.put("England", "London");
+        capitalCities.put("Afghanistan", "Kabul");
         // capitalCities.put("Sweden", "Gothenburg"); // <-- try this one out!
 
 
